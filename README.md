@@ -2,16 +2,20 @@
 ---
 
 ```
+.
+├── pen_report
+│   └── pen_report_v_0_1.pdf
 ├── pen_spike
 │   └── pen_spike.py
+├── README.md
 ├── SMITM
 │   ├── blacklist.txt
 │   ├── def.ssl
-│   ├── install_smitm.sh #must be reviewed before calling
+│   ├── install_smitm.sh
 │   ├── log_ex
 │   ├── parselog
 │   ├── README.md
-│   ├── smitm #path must be edited
+│   ├── smitm
 │   └── smitm-stop
 ├── tor
 │   ├── README.md
@@ -20,5 +24,5 @@
     ├── README.md
     └── whatmpp.py
 
-4 directories, 13 files
+5 directories, 15 files
 ```
